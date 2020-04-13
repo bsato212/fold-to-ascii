@@ -1,0 +1,23 @@
+{
+  "name": "fold-to-ascii",
+  "version": "1.0.0",
+  "description": "TypeScript typings for https://github.com/mplatt/fold-to-ascii",
+  "main": "index.d.ts",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsato212/fold-to-ascii.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "bsato212",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsato212/fold-to-ascii/issues"
+  },
+  "homepage": "https://github.com/bsato212/fold-to-ascii#readme"
+}
